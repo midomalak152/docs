@@ -87,7 +87,8 @@ const nav: ThemeConfig['nav'] = [
             text: 'GitHub Discussions',
             link: 'https://github.com/vuejs/core/discussions'
           },
-          { text: 'DEV Community', link: 'https://dev.to/t/vue' }
+          { text: 'DEV Community', link: 'https://dev.to/t/vue' },
+          { text: 'Report Issues', link: '/about/report-issues' }
         ]
       },
       {
@@ -112,6 +113,7 @@ const nav: ThemeConfig['nav'] = [
         text: 'Community Guide',
         link: '/about/community-guide'
       },
+      { text: 'Report Issues', link: '/about/report-issues' },
       { text: 'Code of Conduct', link: '/about/coc' },
       { text: 'Privacy Policy', link: '/about/privacy' },
       {
